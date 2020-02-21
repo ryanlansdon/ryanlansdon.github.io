@@ -1,2 +1,6 @@
 https://ryanlansdon/github.io
 https://github.com/ryanlansdon/ryanlansdon.github.io
+
+Added colored headings for My Interest cards, as well as rounded corners on the
+images for those cards. Changed header row color for My favorite projects table.
+Finally added navbar items to go to index.html and mypage.html
